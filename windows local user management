@@ -1,0 +1,27 @@
+Objective
+practice core help desk skills creating, modyfing, disabling, and re-enabling a local windows user.
+
+Skills Demonstrated
+creating local windows user
+managing group membership
+enabling and disabling accounts
+basic user managemnt concepts
+
+LAB STEPS
+1. open users and groups
+    used win + X click on computer management
+2. Create a new local user
+    Right click on users left click create new user fill out user name and password uncheck the user must change password at next login clicked create
+3.add user to a group
+    open account made go to member of tab added user to the users group click addd button
+4. disable the account
+    click the user go to properties check the account is disabled button click apply
+5.re-enable account
+    wet back into properties unchecked account is disabled button and then applied
+
+Summary
+lab demonstrates:
+creating new windows user
+assigning group membership
+disabling and re-enabling accounts
+navigating the local users and groups managment console
