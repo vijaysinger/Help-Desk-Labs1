@@ -1,0 +1,14 @@
+objective
+    creating a new user, assigning permissions, test file access for new user, and delete user
+
+Step by step
+1. open computer management 
+     win + r type compmgmt.msc hit enter go to local users and groups click users 
+2. create a new user 
+    enter username and password for user uncheck make user chamge password with first login
+3. modify user permissions 
+4.test file permission on new user to make sure you gave access
+5. Delete user 
+
+Outcome
+demonstrated ability to manage user accounts and permissions safely
