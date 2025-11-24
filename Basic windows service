@@ -1,0 +1,16 @@
+Objective
+  lab demonstrates ability to manage windows services I used the print spooler
+
+Step by steps 
+1. open services
+    win + r enter then type services.msc hit enter 
+2. locate print spooler 
+    scroll on right side until located
+3. check service status
+    look to see if it is running or stopped
+4. start and stop the service
+    right click print spooler hit stop right click again and start again
+
+Observed 
+stopping the spooler stopped all printing no prints could be made 
+starting service agin restored regular printing
