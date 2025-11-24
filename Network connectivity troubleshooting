@@ -1,0 +1,19 @@
+Objective
+  demonstrating ability to diagnose and fix common network issues 
+
+Step by steps
+1. open command prompt
+    press win + r type cmd press enter
+2. Check IP configuration
+    type "ipconfig" hit enter look for IPv4 address, subnet mask, default gateway, DNS servers
+3. Test netwrok connectivity with ping comand
+    ping your own comnputer
+    ping your default gateway (your router)
+    ping an external IP to tezt internet connection
+    ping an external website to test DNS resolution
+4. Check DNS resolution
+    use nslookup command to check which DNS server is responding 
+5. Reset network settings (if needed)
+    ipconfig /release (drops your current ip)
+    ipconfig /renew (requests new IP from router)
+    ipconfig /flushdns (network reset)
